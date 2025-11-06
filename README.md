@@ -15,7 +15,7 @@ https://colab.research.google.com/drive/13cIJJVcu0kupON_6GJwJENcZmFHAmTQQ?usp=sh
 Anomaly Detection
 https://colab.research.google.com/drive/1Og_mdKOCBai_9Bkp9gPLyvZX5QzZRNVZ?usp=sharing
 
-Association Rules
+Association Rules with gradio
 https://colab.research.google.com/drive/1WNo1U7U6FLB4XOjDuYm-JqhMJaishiM7?usp=sharing
 
 Time Series
