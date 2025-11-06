@@ -17,3 +17,6 @@ https://colab.research.google.com/drive/1Og_mdKOCBai_9Bkp9gPLyvZX5QzZRNVZ?usp=sh
 
 Association Rules
 https://colab.research.google.com/drive/1WNo1U7U6FLB4XOjDuYm-JqhMJaishiM7?usp=sharing
+
+Time Series
+https://colab.research.google.com/drive/1CqGl0oi7_8SI2kTNU9SjOAKlr7x0QRiZ?usp=sharing
