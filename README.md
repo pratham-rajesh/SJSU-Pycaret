@@ -12,7 +12,7 @@ https://colab.research.google.com/drive/1kKEwC0MmybiClsE4L_GXSUTTWUIh2aTk?usp=sh
 Clustering
 https://colab.research.google.com/drive/13cIJJVcu0kupON_6GJwJENcZmFHAmTQQ?usp=sharing
 
-Anomaly Detection
+Anomaly Detection with gradio
 https://colab.research.google.com/drive/1Og_mdKOCBai_9Bkp9gPLyvZX5QzZRNVZ?usp=sharing
 
 Association Rules with gradio
