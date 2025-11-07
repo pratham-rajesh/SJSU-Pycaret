@@ -19,36 +19,6 @@ Each notebook represents a different machine learning domain — from classifica
 
 ---
 
-## 🧩 **Assignment Details**
 
-Each notebook demonstrates a complete PyCaret workflow:
-- Dataset upload or loading (Kaggle/custom/built-in)
-- Full pipeline: **setup → compare → tune → evaluate → finalize → save**
-- GPU-enabled AutoML where supported
-- Interactive evaluation dashboards and visualizations
-- Model saving/loading for reproducibility
-- **Gradio** web app demos for Anomaly Detection and Association Rules tasks
 
----
 
-## 🧠 **Technologies Used**
-
-- **Python 3.12** (Google Colab)  
-- **PyCaret** (latest master build)  
-- **scikit-learn**, **pandas**, **matplotlib**, **seaborn**  
-- **Gradio** for interactive app demos  
-
----
-
-## 🏆 **Instructor Notes**
-
-All notebooks were executed and recorded personally in Google Colab (not copied from official tutorials).  
-Each accompanying video explains the code, workflow, and outputs concisely for grading purposes.
-
----
-
-## ✨ **Author**
-
-**Name:** *[Your Name]*  
-**Course:** *PyCaret Low-Code Machine Learning Assignment*  
-**Instructor:** *[Instructor’s Name]*  
